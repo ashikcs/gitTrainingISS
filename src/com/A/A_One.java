@@ -1,8 +1,9 @@
 package com.A;
 
 public class A_One {
-private void sysout() {
-	// TODO Auto-generated method stub
 
-}
+	public static void main(String[] args) {
+
+		System.out.println(" Hello World");
+	}
 }
